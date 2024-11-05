@@ -1,0 +1,53 @@
+
+h1{
+color: #DCA47C;
+font-size: 35px;
+padding-left: 30px;font-weight: 400;
+
+
+}
+#name{
+    width: 100px;
+border-color:white;
+padding-left: 30px;
+border-style: hidden;
+
+}
+#email{
+    gap: 10px;
+    width: 160px;
+    border-color: white;
+    border-style: hidden
+    
+}
+ 
+#Experience{
+    color: #DCA47C;
+    font-size: 20px;
+    padding-left: 30px;
+}
+#company{
+    border-style: hidden;
+    padding-left: 30px;
+}
+#companydescription{
+    border-style: hidden;
+    padding-left: 30px;
+}
+#education{
+    color: #DCA47C;
+    font-size: 20px;
+    padding-left: 30px;
+}
+#Education{
+    border-style: hidden;
+    padding-left: 30px;
+}
+#skills{
+    padding-left:30px ;
+font-size: 20px;
+}
+#Skills{
+    border-style: hidden;
+    padding-left:30px;
+}
